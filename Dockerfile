@@ -4,7 +4,7 @@ MAINTAINER Shanna Chan “shchan@redhat.com”
 
 EXPOSE 8080
 ENV JAVA_OPTIONS '-Xmx256m'
-COPY /app.jar /app.jar
+COPY app.jar /app.jar
 
 WORKDIR /
 
