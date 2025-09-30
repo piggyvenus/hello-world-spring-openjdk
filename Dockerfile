@@ -5,7 +5,7 @@ MAINTAINER Shanna Chan “shchan@redhat.com”
 EXPOSE 8080
 ENV JAVA_OPTIONS '-Xmx256m'
 COPY app.jar /app.jar
-
+USER 100001
 WORKDIR /
 
 ENTRYPOINT exec java $JAVA_OPTIONS -jar app.jar
