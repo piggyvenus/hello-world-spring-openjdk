@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi9/openjdk-17:1.23-6.1761163788
+FROM registry.access.redhat.com/openjdk-tech-preview/openjdk-21-jlink-rhel9:1.23-5.1761164960
 
 MAINTAINER Shanna Chan “shchan@redhat.com”
 
