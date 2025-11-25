@@ -1,4 +1,4 @@
-FROM ghcr.io/ubi-micro-dev/ubi8-micro-dev-openjdk-17:latest
+FROM egistry.access.redhat.com/ubi9/openjdk-17:1.23-6.1763035539
 
 MAINTAINER Shanna Chan “shchan@redhat.com”
 
