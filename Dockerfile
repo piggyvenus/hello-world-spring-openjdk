@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi9/openjdk-17:1.23-6.1763035539
+FROM quay.io/hummingbird/openjdk:21
 
 MAINTAINER Shanna Chan “shchan@redhat.com”
 
