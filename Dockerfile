@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi9/openjdk-17:1.24-2.1769595320
+FROM registry.access.redhat.com/ubi9/openjdk-17:latest
 
 MAINTAINER Shanna Chan “shchan@redhat.com”
 
