@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/hi/openjdk:21.0.2
+FROM registry.access.redhat.com/hi/openjdk:21.0.12
 
 MAINTAINER Shanna Chan “shchan@redhat.com”
 
